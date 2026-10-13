@@ -1,0 +1,11 @@
+# Site Menabe
+- Plan validé : site vitrine français et formulaire enregistré, sans paiement.
+- Photo authentique du bureau reçue et préparée.
+- Design rouge/blanc, Poppins, hero éditorial asymétrique.
+- Interface et API/table terminées. Build et lint sans erreurs.
+- Tests navigateur desktop/mobile : navigation, fenêtre soutien, formulaire et absence de débordement validés, zéro erreur JS.
+- Enregistrement vérifié dans la base ; donnée de test supprimée.
+- Serveur web actif sur le port 4200. Prêt à livrer.
+- Coordonnées et horaires non confirmés : marquer explicitement.
+- Actualités : formation « Prêt à intervenir » 2026 ajoutée à partir des informations fournies, avec sept photos et galerie accessible. Aucune date précise ni effectif inventé.
+- Mise à jour formation : build/lint validés, sept photos et navigation galerie/clavier testées sur desktop et mobile, zéro erreur JS.
